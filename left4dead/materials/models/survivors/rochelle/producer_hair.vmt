@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-$basetexture "models\survivors\rochelle\producer_hair_color"
-$halflambert 1
-$translucent 1
-$nocull 1
-}
